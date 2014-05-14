@@ -6,7 +6,6 @@ public class raylianghah
 	{
 		System.out.println("I belong to branch usage!");
 		
-		System.out.println("Changed directly from github!");
-		
+		System.out.println("I finish my branch first!");
 	}
 }
