@@ -6,6 +6,10 @@ public class raylianghah
 	{
 		System.out.println("I belong to branch usage!");
 		
+
 		System.out.println("I finish my branch first!");
+
+		System.out.println("I finish my branch secondly!");
+
 	}
 }
